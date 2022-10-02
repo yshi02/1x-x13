@@ -1,6 +1,6 @@
 # FAQs about Cache Lab (Lab 4)
 
-1. In the trace file, the numbers are in **hex**.
+1. In the trace file, the addresses are in **hex**.
 
    For example, if you see an address  `10`, it is a 64-bit hexadecimal address. Just think of it as `0x00000010`.
 
